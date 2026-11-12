@@ -1,6 +1,6 @@
 # Blockchain-Based Health Insurance Fraud Detection
 
-This repository accompanies the research paper _"Fraud Detection Model in Health Insurance through Blockchain Technology"_, proposing a multi-layered architecture to detect and prevent fraudulent behavior in healthcare claims using smart contracts.
+This repository accompanies the research paper _"A Blockchain-Based Model for Fraud Detection in Health Insurance"_, proposing a multi-layered architecture to detect and prevent fraudulent behavior in healthcare claims using smart contracts.
 
 ## 🔍 Purpose
 
